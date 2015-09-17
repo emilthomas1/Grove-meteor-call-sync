@@ -1,0 +1,11 @@
+{
+  "name": "meteor-call-sync",
+  "version": "1.0.0",
+  "description": "Calling Meteor methods synchronously, with stubs returning and throwing as you'd expect",
+  "scripts": {
+    "test": "meteor test-packages --velocity ./",
+    "test-pretty": "meteor test-packages --driver-package respondly:test-reporter ./"
+  },
+  "author": "software@grovelabs.io",
+  "license": "ISC"
+}
