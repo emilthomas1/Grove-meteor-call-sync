@@ -1,7 +1,7 @@
 {
   "name": "meteor-call-sync",
   "version": "1.0.0",
-  "description": "Calling Meteor methods synchronously, with stubs returning and throwing as you'd expect",
+  "description": "Call Meteor methods synchronously with stubs returning and throwing exceptions",
   "scripts": {
     "test": "meteor test-packages --velocity ./",
     "test-pretty": "meteor test-packages --driver-package respondly:test-reporter ./"

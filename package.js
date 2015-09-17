@@ -1,7 +1,7 @@
 Package.describe({
   name: 'grove:call-sync',
   version: '1.0.0',
-  summary: 'Call Meteor methods synchronously with stubs returning and throwing exceptions without having to specify options every time',
+  summary: 'Call Meteor methods synchronously with stubs returning and throwing exceptions',
   git: 'https://github.com/grovelabs/meteor-call-sync',
   documentation: 'README.md'
 });
